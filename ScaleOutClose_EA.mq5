@@ -108,7 +108,7 @@ color  g_colorSetSlButton = clrDarkGoldenrod;
 color  g_colorSetTpButton = clrTeal;
 color  g_colorDelButton   = clrFireBrick;
 color  g_colorLabelText   = clrBlack; // header/status text - dark, readable on a white chart theme
-int    g_statusFontSize   = 14;       // status line font size (bigger than the default Comment() font)
+int    g_statusFontSize   = 11;       // status line font size (bigger than the default Comment() font)
 
 struct ScaleState
   {
